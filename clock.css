@@ -1,0 +1,59 @@
+body{
+    background-color: seagreen;
+}
+
+h1{
+    font-size: 25px;
+    text-align: center;
+    color: pink;
+    text-align: center;
+}
+
+.divv{
+    background-color: red;
+    color: white;
+    width: 700px;
+    height: 200px;
+    outline: black;
+    text-align: center;
+    margin-left: 400;
+    position:absolute;
+    margin-top: 40px;
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.centerd{
+    position:absolute;
+    top: 18%;
+    left: 40%;
+    translate: (-50%, -50%);
+    text-align: center;
+
+}
+
+label{
+    text-decoration: underline;
+    font-size: 25px;
+    color: crimson;
+}
+
+.box{
+    width: 200px;
+    height: 100px;
+    outline:black;
+    background-color: chartreuse;
+    border: 1px solid black;
+}
+
+.box2{
+    width: 200px;
+    height: 100px;
+    outline:black;
+    background-color:blue;
+    border: 1px solid black;
+}
